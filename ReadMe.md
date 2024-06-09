@@ -10,10 +10,10 @@ This is interactive program to check anagram strings. User can input Strings and
 
 ## Usage
 
-Go to the CheckAnagram.java file location
-use following command:
+Go to the CheckAnagram.java file location (\check-anagram\src\main\java\com\checkanagram)
+and use following command:
 
-java CheckAnagram
+java CheckAnagram.java
 
 The program will guide you to enter first String value, you need to enter the second string value to check the anagram, 
 the program continues for multiple inputs.
